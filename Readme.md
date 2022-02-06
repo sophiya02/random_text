@@ -1,0 +1,1 @@
+A small project to generate randowm quotes at a time from a list of quotes.
